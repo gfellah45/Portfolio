@@ -24,6 +24,7 @@ module.exports = {
         icon: `./public/logo.png`,
       },
     },
+    
     {
       resolve: `gatsby-plugin-postcss`,
       options: {

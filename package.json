@@ -4,6 +4,7 @@
   "version": "4.0.0",
   "author": "Jerry Aaron <jerryaaron.dev>",
   "dependencies": {
+    "framer-motion": "^2.9.4",
     "gatsby": "2.24.72",
     "gatsby-plugin-manifest": "2.4.34",
     "gatsby-plugin-offline": "3.2.31",
