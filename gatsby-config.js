@@ -21,7 +21,7 @@ module.exports = {
         background_color: "",
         theme_color: fullConfig.theme.colors.white,
         display: `minimal-ui`,
-        icon: `https://res.cloudinary.com/gfellah45/image/upload/v1605614602/Portfolio/logo_k2wg7x.png`,
+        icon: `./public/icons/icon-48x48.png`,
       },
     },
 
