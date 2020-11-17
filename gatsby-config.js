@@ -12,18 +12,6 @@ module.exports = {
   plugins: [
     `gatsby-plugin-eslint`,
     `gatsby-plugin-react-helmet`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `gatsby-starter-tailwind`,
-        short_name: `starter`,
-        start_url: `/`,
-        background_color: "",
-        theme_color: fullConfig.theme.colors.white,
-        display: `minimal-ui`,
-        icon: `./public/icons/icon-48x48.png`,
-      },
-    },
 
     {
       resolve: `gatsby-plugin-postcss`,
