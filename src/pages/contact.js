@@ -15,9 +15,8 @@ function ContactPage() {
           initial={{ y: 1000 }}
           animate={{ y: 0 }}
           className="mx-auto md:w-1/2"
+          name="contact"
           method="POST"
-          encType="multipart/form-data"
-          name="myportfolio"
           data-netlify="true"
         >
           <p className="mb-8 leading-loose text-white text-2xl font-semibold font-portfoliohead">
